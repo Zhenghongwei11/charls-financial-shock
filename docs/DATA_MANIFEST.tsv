@@ -1,0 +1,12 @@
+dataset	source	access	notes	expected_local_path
+CHARLS Harmonized (H_CHARLS_D_Data.dta)	CHARLS data portal (Peking University)	restricted	Application required; do not redistribute microdata	data/raw/charls/extracted/harmonized/H_CHARLS_D_Data.dta
+CHARLS 2011 Health Status and Functioning	CHARLS data portal (Peking University)	restricted	Wave 2011 health_status_and_functioning.dta	data/raw/charls/extracted/2011/health_status_and_functioning.dta
+CHARLS 2013 Health Status and Functioning	CHARLS data portal (Peking University)	restricted	Wave 2013 Health_Status_and_Functioning.dta	data/raw/charls/extracted/2013/Health_Status_and_Functioning.dta
+CHARLS 2015 Health Status and Functioning	CHARLS data portal (Peking University)	restricted	Wave 2015 Health_Status_and_Functioning.dta	data/raw/charls/extracted/2015/Health_Status_and_Functioning.dta
+CHARLS 2018 Health Status and Functioning	CHARLS data portal (Peking University)	restricted	Wave 2018 Health_Status_and_Functioning.dta	data/raw/charls/extracted/2018/Health_Status_and_Functioning.dta
+CHARLS 2011 Health Care and Insurance	CHARLS data portal (Peking University)	restricted	Wave 2011 health_care_and_insurance.dta	data/raw/charls/extracted/2011/health_care_and_insurance.dta
+CHARLS 2013 Health Care and Insurance	CHARLS data portal (Peking University)	restricted	Wave 2013 Health_Care_and_Insurance.dta	data/raw/charls/extracted/2013/Health_Care_and_Insurance.dta
+CHARLS 2015 Health Care and Insurance	CHARLS data portal (Peking University)	restricted	Wave 2015 Health_Care_and_Insurance.dta	data/raw/charls/extracted/2015/Health_Care_and_Insurance.dta
+CHARLS 2018 Health Care and Insurance	CHARLS data portal (Peking University)	restricted	Wave 2018 Health_Care_and_Insurance.dta	data/raw/charls/extracted/2018/Health_Care_and_Insurance.dta
+CPI indices (China)	National Bureau of Statistics of China (NBS)	public	Used to deflate monetary amounts to 2011 base (see scripts)	(none; embedded/parameterized in scripts)
+

@@ -1,0 +1,16 @@
+module	n_obs	n_ids
+leg1_doc_any	11859	4210
+leg1_doc_cnt	11706	4201
+leg1_doc_cnt_users	2214	1709
+leg1_hosp_any	11861	4208
+leg1_any_contact	11871	4210
+leg1_out_forg_cost	462	431
+leg1_in_need_no	4104	2208
+leg1_in_forg_cost	4103	2207
+leg1_in_forg_cost_cond	49	41
+leg1_out_forg_cost_burden	340	315
+leg1_in_need_no_burden	2892	1550
+leg1_in_forg_cost_burden	2892	1550
+leg1_in_forg_cost_cond_burden	30	26
+leg2_adl_lead_level	8078	4204
+leg2_adl_lead_level_burden	5665	2943

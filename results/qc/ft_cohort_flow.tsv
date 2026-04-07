@@ -1,0 +1,4 @@
+cohort	n_ids
+main_cohort_wide_age60_ge_3wave	5512
+ft_balanced_by_adl_4wave	4212
+excluded_from_ft_balanced	1300

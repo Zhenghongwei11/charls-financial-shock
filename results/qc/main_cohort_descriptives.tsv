@@ -1,0 +1,39 @@
+n_nonmissing	mean	sd	median	p25	p75	min	max	variable	summary_type	level	count	pct_of_cohort
+5512	66.859398	5.730347	66.0	62.0	70.0	60.0	101.0	baseline_age	continuous			
+3705	189601.489991	1425550.24161	38300.0	10210.0	125100.0	-589000.0	40000152.0	hh1atotb	continuous			
+5086	1.181282	1.155795	1.0	0.0	2.0	0.0	6.0	r1_core_disease_count	continuous			
+5251	1.315749	1.211727	1.0	0.0	2.0	0.0	7.0	r2_core_disease_count	continuous			
+5140	1.689689	1.342935	1.0	1.0	3.0	0.0	7.0	r3_core_disease_count	continuous			
+4963	2.003425	1.475648	2.0	1.0	3.0	0.0	7.0	r4_core_disease_count	continuous			
+5054	0.256862	0.135717	0.233333	0.166667	0.328571	0.0	0.904762	r1_primary_burden	continuous			
+5191	0.258057	0.140209	0.245238	0.166667	0.333333	0.0	1.0	r2_primary_burden	continuous			
+5078	0.284052	0.154253	0.261905	0.178571	0.364286	0.0	0.904762	r3_primary_burden	continuous			
+4689	0.312747	0.167949	0.297619	0.214286	0.404762	0.0	0.952381	r4_primary_burden	continuous			
+5512								ragender	categorical	1.0	2767.0	0.501996
+5512								ragender	categorical	2.0	2745.0	0.498004
+5512								raeduc_c	categorical	1.0	1896.0	0.343977
+5512								raeduc_c	categorical	2.0	1107.0	0.200835
+5512								raeduc_c	categorical	3.0	42.0	0.00762
+5512								raeduc_c	categorical	4.0	1392.0	0.25254
+5512								raeduc_c	categorical	5.0	693.0	0.125726
+5512								raeduc_c	categorical	6.0	127.0	0.023041
+5512								raeduc_c	categorical	7.0	165.0	0.029935
+5512								raeduc_c	categorical	8.0	50.0	0.009071
+5512								raeduc_c	categorical	9.0	39.0	0.007075
+5512								raeduc_c	categorical	10.0	1.0	0.000181
+5512								raeducl	categorical	1.0	5154.0	0.935051
+5512								raeducl	categorical	2.0	264.0	0.047896
+5512								raeducl	categorical	3.0	94.0	0.017054
+5087								h1rural	categorical	0.0	1864.0	0.338171
+5087								h1rural	categorical	1.0	3223.0	0.584724
+5087								h1rural	categorical	NA	425.0	0.077104
+5074								r1higov	categorical	0.0	356.0	0.064586
+5074								r1higov	categorical	1.0	4718.0	0.855951
+5074								r1higov	categorical	NA	438.0	0.079463
+5070								r1doctor1m	categorical	0.0	4056.0	0.735849
+5070								r1doctor1m	categorical	1.0	1014.0	0.183962
+5070								r1doctor1m	categorical	NA	442.0	0.080189
+5512								tcm_any_observed_w1_w4	categorical	0	5272.0	0.956459
+5512								tcm_any_observed_w1_w4	categorical	1	240.0	0.043541
+5512								usable_wave_count_primary	categorical	3	2069.0	0.375363
+5512								usable_wave_count_primary	categorical	4	3443.0	0.624637

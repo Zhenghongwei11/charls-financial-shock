@@ -1,0 +1,16 @@
+metric_id	description	estimate	p_value	ci_low	ci_high	source_model_id	source_term	n_obs	n_ids
+insurance_interaction_beta	Interaction term (shock × public insurance) on ΔADL/year	-0.22099670429901716	0.011087625613610801	-0.39153149901402995	-0.0504619095840044	insurance_interaction	oop_shock_p95_lag:insurance_public_w1	12253	4201
+shock_effect_uninsured_beta	Shock effect on ΔADL/year among uninsured (reference group)	0.26876894902443504	0.0014037699723666302	0.10383528756745627	0.4337026104814138	insurance_interaction	oop_shock_p95_lag	12253	4201
+shock_effect_insured_beta	Shock effect on ΔADL/year among publicly insured (β_shock + β_interaction)	0.047772244725417884				insurance_interaction	oop_shock_p95_lag + oop_shock_p95_lag:insurance_public_w1	12253	4201
+insurance_buffer_pct_reduction	Percent reduction of shock effect with public insurance (1 - β_insured/β_uninsured)	0.8222553427439466				insurance_interaction	derived	12253	4201
+insurance_interaction_beta_logshock	Interaction term (shock × public insurance) controlling for log OOP (sensitivity)	-0.2197316734256614	0.011612812677204674	-0.3903806242517871	-0.049082722599535694	insurance_interaction_logshock	oop_shock_p95_lag:insurance_public_w1	11850	4199
+shock_effect_uninsured_beta_logshock	Shock effect among uninsured controlling for log OOP (reference group; sensitivity)	0.2628848638894089	0.002005442183607526	0.09610792742320187	0.42966180035561596	insurance_interaction_logshock	oop_shock_p95_lag	11850	4199
+shock_effect_insured_beta_logshock	Shock effect among insured controlling for log OOP (β_shock + β_interaction; sensitivity)	0.04315319046374749				insurance_interaction_logshock	oop_shock_p95_lag + oop_shock_p95_lag:insurance_public_w1	11850	4199
+insurance_buffer_pct_reduction_logshock	Percent reduction of shock effect with public insurance controlling for log OOP (sensitivity)	0.8358475652599714				insurance_interaction_logshock	derived	11850	4199
+dose_continuous_only_beta	Continuous exposure (log OOP) only	0.00234562796542577	0.06600515017764638	-0.00015511975609506937	0.004846375686946609	dose_continuous_only	log_oop_raw_lag	11878	4210
+dose_continuous_plus_shock_beta	Continuous exposure (log OOP) with binary shock included	0.0005063528219510948	0.7181313151967945	-0.002243094553485358	0.0032558001973875474	dose_continuous_plus_shock	log_oop_raw_lag	11878	4210
+dose_shock_only_beta	Binary shock only (p95)	0.06566551035202971	0.0037753897739907535	0.021229469454434463	0.11010155124962495	dose_shock_only	oop_shock_p95_lag	12286	4212
+clinical_shock_beta	Shock effect (p95) on ΔADL/year	0.06566551035202971	0.0037753897739907535	0.021229469454434463	0.11010155124962495	clinical_comparison	oop_shock_p95_lag	12286	4212
+clinical_per_disease_beta	Per-chronic-disease effect on ΔADL/year	0.04335940665418586	6.0610079990228285e-31	0.036012353769764395	0.05070645953860733	clinical_comparison	core_disease_count_lag	12286	4212
+clinical_per_year_age_beta	Per-year age effect on ΔADL/year	0.005118233509424813	1.2716980087878609e-11	0.00363686673867306	0.006599600280176566	clinical_comparison	baseline_age	12286	4212
+clinical_shock_vs_disease_ratio	Ratio β_shock / β_per_disease (≈ chronic disease equivalents)	1.514446700706649				clinical_comparison	derived	12286	4212

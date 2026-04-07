@@ -1,0 +1,5 @@
+model_id	n_obs	n_ids
+base	12286	4212
+plus_hosp_lag	12265	4212
+plus_incident_disease	11937	4212
+plus_hosp_lag_plus_incident_disease	11917	4212

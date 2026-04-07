@@ -1,0 +1,7 @@
+figure	output_path	script	anchor_table
+Figure 1	results/figures/ft_fig1_cohort_selection.png	scripts/build_ft_fig1_cohort_selection.py	results/figures/ft_fig1_cohort_selection_anchor.tsv
+Figure 2	results/figures/ft_fig2_shock_thresholds.png	scripts/build_ft_fig2_shock_thresholds.py	results/figures/ft_fig2_shock_thresholds_anchor.tsv
+Figure 3	results/figures/ft_fig3_primary_dose_response.png	scripts/build_ft_fig3_primary_dose_response.py	results/figures/ft_fig3_primary_dose_response_anchor.tsv
+Figure 4	results/figures/ft_forest_strengthening.png	scripts/run_ft_strengthening_analyses.py	(results/effect_sizes/ft_strengthening_analyses.tsv)
+Figure 5	results/figures/ft_evidence_stack_forest.png	scripts/plot_ft_evidence_stack.py	results/figures/ft_evidence_stack_anchor.tsv
+

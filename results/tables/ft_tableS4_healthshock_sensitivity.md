@@ -1,0 +1,10 @@
+# Table S4
+
+Health-shock severity proxy sensitivity (shock coefficient across augmented models; balanced cohort).
+
+| Model | Estimate (95% CI) | p | Observations | Participants |
+| --- | --- | --- | --- | --- |
+| Base model | 0.066 (0.021, 0.110) | 0.003775 | 12286 | 4212 |
+| + lagged hospitalization | 0.055 (0.009, 0.101) | 0.01952 | 12265 | 4212 |
+| + incident chronic disease | 0.061 (0.016, 0.106) | 0.007781 | 11937 | 4212 |
+| + both proxies | 0.054 (0.008, 0.101) | 0.02283 | 11917 | 4212 |

@@ -1,0 +1,2 @@
+base_scope	mediator	shock_est_no_mediator	shock_est_with_mediator	delta	p_no_mediator	p_with_mediator	n_obs	n_ids
+matched	cesd10	0.006518342156137186	0.010157986938167022	0.003639644782029836	0.8168914195431685	0.7189379108987624	7819	4168

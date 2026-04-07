@@ -1,0 +1,12 @@
+metric	value
+n_total_harmonized	25586.0
+n_primary_3wave_anyage	14608.0
+n_main_cohort_3wave_age60	5512.0
+n_sensitivity_cohort_2wave_age50	12957.0
+main_cohort_any_tcm_n	240.0
+main_cohort_any_tcm_prev	0.04354136429608128
+main_cohort_positive_tcm_wave_obs	275.0
+main_cohort_w1_usable_n	5035.0
+main_cohort_w2_usable_n	5180.0
+main_cohort_w3_usable_n	5075.0
+main_cohort_w4_usable_n	4689.0

@@ -1,0 +1,5 @@
+Model	Term	Estimate (95% CI)	p	Observations	Participants
+Continuous only	log1p(OOP at t−1)	0.002 (-0.000, 0.005)	0.0660	11878	4210
+Continuous + shock	log1p(OOP at t−1)	0.001 (-0.002, 0.003)	0.7181	11878	4210
+Continuous + shock	Shock (P95 OOP at t−1)	0.060 (0.011, 0.110)	0.0163	11878	4210
+Shock only	Shock (P95 OOP at t−1)	0.066 (0.021, 0.110)	0.0038	12286	4212

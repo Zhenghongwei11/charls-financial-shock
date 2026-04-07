@@ -1,0 +1,10 @@
+panel	label	value
+flow	main_cohort_wide_age60_ge_3wave	5512.0
+flow	ft_balanced_by_adl_4wave	4212.0
+flow	excluded_from_ft_balanced	1300.0
+selection	baseline_age	-0.245983688211245
+selection	adl_w1	-0.0221455512753513
+selection	education_high_proxy_raeduc_c_ge_4	-0.0468424922909775
+selection	female_ragender_eq_2	0.1036846589904608
+selection	rural_h1rural_eq_1	0.6409060411702141
+selection	insured_r1higov_eq_1	0.8291159003538046

@@ -1,0 +1,5 @@
+wave	year	n_rows	doctor_visit_any_wave_nonmissing_pct	hospital_stay_any_wave_nonmissing_pct	visit_eq_1_and_outpatient_total_eq_0_and_oop_eq_0_n	stay_eq_1_and_hospital_total_eq_0_and_oop_eq_0_n
+1	2011	4212	0.9959639126305793	0.9985754985754985	3	2
+2	2013	4212	0.99667616334283	0.9978632478632479	5	0
+3	2015	4212	0.9988129154795822	0.9981006647673314	2	0
+4	2018	4212	1.0	1.0	27	3

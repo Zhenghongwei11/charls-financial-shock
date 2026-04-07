@@ -1,0 +1,17 @@
+wave	year	variable	quantile	threshold	n_nonmissing
+1	2011	total_annual_oop_raw	0.75	120.0	4098
+1	2011	total_annual_oop_raw	0.9	3000.0	4098
+1	2011	total_annual_oop_raw	0.95	6500.0	4098
+1	2011	total_annual_oop_raw	0.975	12314.999999999964	4098
+2	2013	total_annual_oop_raw	0.75	474.8338081671415	4066
+2	2013	total_annual_oop_raw	0.9	4748.338081671415	4066
+2	2013	total_annual_oop_raw	0.95	11301.044634377968	4066
+2	2013	total_annual_oop_raw	0.975	20626.78062678063	4066
+3	2015	total_annual_oop_raw	0.75	552.4861878453038	4040
+3	2015	total_annual_oop_raw	0.9	5204.419889502752	4040
+3	2015	total_annual_oop_raw	0.95	12182.320441988799	4040
+3	2015	total_annual_oop_raw	0.975	23232.044198895124	4040
+4	2018	total_annual_oop_raw	0.75	1033.5917312661495	4065
+4	2018	total_annual_oop_raw	0.9	6029.28509905254	4065
+4	2018	total_annual_oop_raw	0.95	13684.75452196374	4065
+4	2018	total_annual_oop_raw	0.975	25839.793281653747	4065

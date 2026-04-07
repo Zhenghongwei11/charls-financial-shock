@@ -1,0 +1,56 @@
+variable	type	overall_n	overall_mean	overall_sd	ref_n	ref_mean	ref_sd	smd_overall_vs_ref	group	n	mean	sd	smd_vs_ref	overall_prop	ref_prop	prop
+baseline_age	continuous	4212.0	66.52207977207978	5.593338019656638	2420.0	66.54380165289257	5.688640182758398	-0.0038505846161463538								
+baseline_age	continuous_by_group								chronic_high	654.0	66.39602446483181	5.411183142997244	-0.026618629469215026			
+baseline_age	continuous_by_group								mixed	752.0	66.66090425531915	5.524974237620782	0.020883566580208464			
+baseline_age	continuous_by_group								shock_spike	386.0	66.32901554404145	5.436102267203774	-0.03860418160419912			
+baseline_age	continuous_by_group								stable_low	2420.0	66.54380165289257	5.688640182758398	0.0			
+ses_wealth_w1	continuous	3093.0	170412.87911901466	1334616.7450715369	1784.0	166978.303851551	1391231.116704346	0.002519461756068604								
+ses_wealth_w1	continuous_by_group								chronic_high	473.0	259993.60465116278	2012362.5694549307	0.05376909202643771			
+ses_wealth_w1	continuous_by_group								mixed	564.0	108553.27207481439	286542.1374593401	-0.05816920748512101			
+ses_wealth_w1	continuous_by_group								shock_spike	272.0	165429.11982996322	585231.9904359318	-0.001451574039676454			
+ses_wealth_w1	continuous_by_group								stable_low	1784.0	166978.303851551	1391231.116704346	0.0			
+core_disease_count	continuous	4211.0	1.151270482070767	1.1413873192612096	2420.0	0.9214876033057852	1.018043630529598	0.21247167557010813								
+core_disease_count	continuous_by_group								chronic_high	654.0	1.7737003058103975	1.3075980371421634	0.7272687159490324			
+core_disease_count	continuous_by_group								mixed	751.0	1.2716378162450066	1.1375915409237878	0.32437120252631957			
+core_disease_count	continuous_by_group								shock_spike	386.0	1.3031088082901554	1.1276181879255027	0.35525128061637606			
+core_disease_count	continuous_by_group								stable_low	2420.0	0.9214876033057852	1.018043630529598	0.0			
+adl5	continuous	4212.0	0.3755935422602089	0.9416370663866434	2420.0	0.29669421487603304	0.8410149466197302	0.08837836819329399								
+adl5	continuous_by_group								chronic_high	654.0	0.5259938837920489	1.0212580476855664	0.24511245925373745			
+adl5	continuous_by_group								mixed	752.0	0.4441489361702128	0.9910748548595874	0.16043163836339253			
+adl5	continuous_by_group								shock_spike	386.0	0.48186528497409326	1.2128886384731252	0.17742663771723682			
+adl5	continuous_by_group								stable_low	2420.0	0.29669421487603304	0.8410149466197302	0.0			
+female_flag	binary	4212.0			2420.0			0.024552749053496848						0.5102089268755935	0.49793388429752067	
+female_flag	binary_by_group								chronic_high	654.0			0.06228906836665346			0.5290519877675841
+female_flag	binary_by_group								mixed	752.0			0.07336923877219018			0.5345744680851063
+female_flag	binary_by_group								shock_spike	386.0			0.019677545505550675			0.5077720207253886
+female_flag	binary_by_group								stable_low	2420.0			0.0			0.49793388429752067
+residence_rural_w1	binary	4212.0			2420.0			-0.015529810700850763						0.6566951566951567	0.6640495867768595	
+residence_rural_w1	binary_by_group								chronic_high	654.0			-0.02028809733050821			0.654434250764526
+residence_rural_w1	binary_by_group								mixed	752.0			0.04438062938846368			0.6848404255319149
+residence_rural_w1	binary_by_group								shock_spike	386.0			-0.2155991240347572			0.5595854922279793
+residence_rural_w1	binary_by_group								stable_low	2420.0			0.0			0.6640495867768595
+insurance_public_w1	binary	4201.0			2413.0			0.0041153618573506155						0.9343013568198049	0.9332780770824699	
+insurance_public_w1	binary_by_group								chronic_high	652.0			0.05484680261090224			0.946319018404908
+insurance_public_w1	binary_by_group								mixed	750.0			0.00559172413639811			0.9346666666666666
+insurance_public_w1	binary_by_group								shock_spike	386.0			-0.052086166252301475			0.9196891191709845
+insurance_public_w1	binary_by_group								stable_low	2413.0			0.0			0.9332780770824699
+doctor_visit_any_wave	binary	4195.0			2410.0			0.3555408071801842						0.20190703218116807	0.08008298755186723	
+doctor_visit_any_wave	binary_by_group								chronic_high	652.0			1.1058545447509238			0.5245398773006135
+doctor_visit_any_wave	binary_by_group								mixed	747.0			0.5866413269381736			0.30120481927710846
+doctor_visit_any_wave	binary_by_group								shock_spike	386.0			0.4124255072452155			0.22538860103626943
+doctor_visit_any_wave	binary_by_group								stable_low	2410.0			0.0			0.08008298755186723
+hospital_stay_any_wave	binary	4206.0			2418.0			0.28586122757989624						0.10746552543984783	0.034739454094292806	
+hospital_stay_any_wave	binary_by_group								chronic_high	652.0			0.7890490089092556			0.3128834355828221
+hospital_stay_any_wave	binary_by_group								mixed	750.0			0.338615459099216			0.12533333333333332
+hospital_stay_any_wave	binary_by_group								shock_spike	386.0			0.4860091457987714			0.18134715025906736
+hospital_stay_any_wave	binary_by_group								stable_low	2418.0			0.0			0.034739454094292806
+education_missing	binary	4212.0			2420.0									0.0	0.0	
+education_missing	binary_by_group								chronic_high	654.0						0.0
+education_missing	binary_by_group								mixed	752.0						0.0
+education_missing	binary_by_group								shock_spike	386.0						0.0
+education_missing	binary_by_group								stable_low	2420.0						0.0
+education_high_proxy_ge4	binary	4212.0			2420.0			0.02400844799095821						0.4420702754036087	0.43016528925619835	
+education_high_proxy_ge4	binary_by_group								chronic_high	654.0			0.05748016077725832			0.45871559633027525
+education_high_proxy_ge4	binary_by_group								mixed	752.0			-0.017438939659025782			0.42154255319148937
+education_high_proxy_ge4	binary_by_group								shock_spike	386.0			0.19779269974591002			0.5284974093264249
+education_high_proxy_ge4	binary_by_group								stable_low	2420.0			0.0			0.43016528925619835

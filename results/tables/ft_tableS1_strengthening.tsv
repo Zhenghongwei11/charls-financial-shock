@@ -1,0 +1,5 @@
+Module	Term	Estimate (95% CI)	p	Observations	Participants
+Insurance buffering	shock × public insurance	-0.221 (-0.392, -0.050)	0.0111	12253	4201
+Insurance buffering (log+shock)	shock × public insurance	-0.220 (-0.390, -0.049)	0.0116	11850	4199
+Heterogeneity (rural)	shock × rural residence	-0.032 (-0.120, 0.056)	0.4750	12286	4212
+Heterogeneity (sex)	shock × female sex	0.031 (-0.056, 0.117)	0.4896	12286	4212

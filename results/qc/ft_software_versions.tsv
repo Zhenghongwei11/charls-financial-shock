@@ -1,0 +1,8 @@
+component	version	detail
+python	3.13.7	3.13.7 (v3.13.7:bcee1c32211, Aug 14 2025, 19:10:51) [Clang 16.0.0 (clang-1600.0.26.6)]
+platform	macOS-12.7.6-x86_64-i386-64bit-Mach-O	macOS-12.7.6-x86_64-i386-64bit-Mach-O
+pandas	3.0.0	
+numpy	2.4.2	
+statsmodels	0.14.6	
+matplotlib	3.10.8	
+requests	2.32.5	
