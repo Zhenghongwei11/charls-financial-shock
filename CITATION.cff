@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-message: "If you use this code, please cite the Zenodo archive (version DOI) once available."
+message: "If you use this code, please cite the Zenodo archive (version DOI) corresponding to the release tag."
 title: "CHARLS Financial Shock and Functional Decline"
 type: software
 authors:
@@ -11,5 +11,5 @@ preferred-citation:
   type: generic
   title: "CHARLS Financial Shock and Functional Decline (Zenodo release)"
   year: 2026
-  notes: "Replace with Zenodo version DOI after release."
-
+  doi: "10.5281/zenodo.19449583"
+  notes: "Zenodo version DOI for release tag v0.1.0."

@@ -26,5 +26,9 @@ Key outputs are written under:
 Figure/table provenance is summarized in `docs/FIGURE_PROVENANCE.tsv`.
 
 ## Data and code availability
-This repository is intended to be archived on Zenodo via the GitHub–Zenodo integration. Please cite the Zenodo **version DOI** corresponding to the release tag used.
+This repository is archived on Zenodo via the GitHub–Zenodo integration.
 
+- Zenodo version DOI (v0.1.0): 10.5281/zenodo.19449583
+- Zenodo concept DOI: 10.5281/zenodo.19449582
+
+Please cite the Zenodo **version DOI** corresponding to the release tag used.
