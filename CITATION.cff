@@ -11,5 +11,4 @@ preferred-citation:
   type: generic
   title: "CHARLS Financial Shock and Functional Decline (Zenodo release)"
   year: 2026
-  doi: "10.5281/zenodo.19449583"
-  notes: "Zenodo version DOI for release tag v0.1.0."
+  notes: "Use the Zenodo version DOI for the specific release tag used."

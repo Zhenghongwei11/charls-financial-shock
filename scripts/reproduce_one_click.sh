@@ -1,6 +1,8 @@
 #!/usr/bin/env bash
 set -euo pipefail
 
+python3 scripts/build_charls_main_cohort_wide.py
+python3 scripts/build_charls_main_cohort_long.py
 python3 scripts/build_extended_long.py
 python3 scripts/preprocess_financial_toxicity_data.py
 python3 scripts/build_ft_selection_qc.py
@@ -29,4 +31,3 @@ python3 scripts/build_ft_manuscript_tables.py
 python3 scripts/write_ft_software_versions.py
 
 echo "Done. See results/ for outputs."
-
